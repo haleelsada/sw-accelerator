@@ -56,6 +56,6 @@ Automatic OpenMP parallelization is applied for large diagonals to distribute wo
 
 These can be adjusted at compile time or edited directly in the source file.
 
-License
+### License
 
 MIT License.
